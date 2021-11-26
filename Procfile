@@ -1,1 +1,1 @@
-web: gunicorn server.py
+web: gunicorn server:connex_app
