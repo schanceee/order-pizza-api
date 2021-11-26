@@ -6,3 +6,4 @@ flask_jwt_extended
 Flask-SQLAlchemy
 swagger-ui-bundle
 tornado
+gunicorn
